@@ -1,4 +1,5 @@
 #pycharm and github
+
 import random
 
 x = random.randint(1,10)
