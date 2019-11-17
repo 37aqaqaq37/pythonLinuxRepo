@@ -19,3 +19,11 @@ for m in range(5):
 
 print(ls)
 print("Hello world")
+c = 0
+while c != 1:
+    for i in range(5):
+        print("Hello")
+    for v in range(3):
+        print("THREE")
+    input("Press <enter>")
+    c = 1
